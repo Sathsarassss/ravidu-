@@ -1,6 +1,6 @@
 # ravidu-
 Raviya bot
 
-Qrකෙතය ලබා ගනීම
+Qrකෙතය ලබා ගනීම සදහා
 
 https://replit.com/@Ravindusathsara/Ravidusathsara?v=1
